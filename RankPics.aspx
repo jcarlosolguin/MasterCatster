@@ -9,8 +9,6 @@
     <script src="lib/RndrNgn.js"></script>
     <script src="lib/RankPics.js" ></script>
 
-        change
-
     <div id="elemnts" >
 
     </div>
